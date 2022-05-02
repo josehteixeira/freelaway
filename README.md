@@ -17,5 +17,5 @@ Freelaway is a website developed to study Python and Django, where freelancers c
 # Features
 
 1. Sign up, sign in and password recovery
-2. Job finding page, with filters
+2. Job search page, with filters
 3. Profile page, with user info and user jobs
